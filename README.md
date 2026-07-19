@@ -13,11 +13,12 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 1
-- **Latest solved problem:** Step one
+- **Total problems solved:** 2
+- **Latest solved problem:** Zero
 
 ## Solved Problems
 
 | Problem | Category | Link |
 | ------- | -------- | ---- |
 | Step one | Basics | [Basics/step_one.v](./Basics/step_one.v) |
+| Zero | Basics | [Basics/zero.v](./Basics/zero.v) |
