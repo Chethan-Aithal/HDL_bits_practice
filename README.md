@@ -13,8 +13,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 2
-- **Latest solved problem:** Zero
+- **Total problems solved:** 3
+- **Latest solved problem:** Wire
 
 ## Solved Problems
 
@@ -22,3 +22,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | ------- | -------- | ---- |
 | Step one | Basics | [Basics/step_one.v](./Basics/step_one.v) |
 | Zero | Basics | [Basics/zero.v](./Basics/zero.v) |
+| Wire | Basics | [Basics/wire.v](./Basics/wire.v) |
