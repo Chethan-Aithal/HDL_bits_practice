@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 20
-- **Latest solved problem:** Module name
+- **Total problems solved:** 21
+- **Latest solved problem:** Module shift
 
 ## Solved Problems
 
@@ -42,3 +42,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Module | Modules: Hierarchy | [Modules/module.v](./Modules/module.v) |
 | Module pos | Modules: Hierarchy | [Modules/module_pos.v](./Modules/module_pos.v) |
 | Module name | Modules: Hierarchy | [Modules/module_name.v](./Modules/module_name.v) |
+| Module shift | Modules: Hierarchy | [Modules/module_shift.v](./Modules/module_shift.v) |
