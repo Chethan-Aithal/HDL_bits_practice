@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 18
-- **Latest solved problem:** Module
+- **Total problems solved:** 19
+- **Latest solved problem:** Module pos
 
 ## Solved Problems
 
@@ -40,3 +40,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Vector4 | Vectors | [Vectors/vector4.v](./Vectors/vector4.v) |
 | Vector5 | Vectors | [Vectors/vector5.v](./Vectors/vector5.v) |
 | Module | Modules: Hierarchy | [Modules/module.v](./Modules/module.v) |
+| Module pos | Modules: Hierarchy | [Modules/module_pos.v](./Modules/module_pos.v) |
