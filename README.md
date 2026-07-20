@@ -13,8 +13,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 8
-- **Latest solved problem:** Complex Gates
+- **Total problems solved:** 9
+- **Latest solved problem:** Vector0
 
 ## Solved Problems
 
@@ -28,3 +28,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Xnorgate | Basics | [Basics/xnorgate.v](./Basics/xnorgate.v) |
 | Andgate | Basics | [Basics/andgate.v](./Basics/andgate.v) |
 | Complex Gates | Basics | [Basics/complex_gates.v](./Basics/complex_gates.v) |
+| Vector0 | Basics | [Basics/vector0.v](./Basics/vector0.v) |
