@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 22
-- **Latest solved problem:** Module shift8
+- **Total problems solved:** 23
+- **Latest solved problem:** Module add
 
 ## Solved Problems
 
@@ -44,3 +44,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Module name | Modules: Hierarchy | [Modules/module_name.v](./Modules/module_name.v) |
 | Module shift | Modules: Hierarchy | [Modules/module_shift.v](./Modules/module_shift.v) |
 | Module shift8 | Modules: Hierarchy | [Modules/module_shift8.v](./Modules/module_shift8.v) |
+| Module add | Modules: Hierarchy | [Modules/module_add.v](./Modules/module_add.v) |
