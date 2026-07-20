@@ -1,6 +1,6 @@
 /*
  * Problem Name: Vectorgates
- * Date: 2026-07-20
+ * Date: 7/13/2026, 11:42:06 PM
  * 
  * Problem Statement:
  * Build a circuit that calculates the bitwise OR, logical OR, and NOT of two 3-bit vectors.

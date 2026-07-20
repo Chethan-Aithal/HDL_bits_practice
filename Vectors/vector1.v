@@ -1,6 +1,6 @@
 /*
  * Problem Name: Vector1
- * Date: 2026-07-20
+ * Date: 7/13/2026, 11:27:10 PM
  * 
  * Problem Statement:
  * Build a combinational circuit that splits an input half-word (16 bits, [15:0]) into lower [7:0] and upper [15:8] bytes.

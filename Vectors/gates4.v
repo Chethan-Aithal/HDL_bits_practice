@@ -1,6 +1,6 @@
 /*
  * Problem Name: Gates4
- * Date: 2026-07-20
+ * Date: 7/13/2026, 11:44:49 PM
  * 
  * Problem Statement:
  * Build a combinational circuit with four inputs, in[3:0].

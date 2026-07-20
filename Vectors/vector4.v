@@ -1,6 +1,6 @@
 /*
  * Problem Name: Vector4
- * Date: 2026-07-20
+ * Date: 7/14/2026, 12:01:22 AM
  * 
  * Problem Statement:
  * Build a circuit that sign-extends an 8-bit number to 32 bits. 

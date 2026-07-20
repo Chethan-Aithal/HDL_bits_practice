@@ -1,6 +1,6 @@
 /*
  * Problem Name: Wire4
- * Date: 2026-07-20
+ * Date: 7/12/2026, 6:50:53 PM
  * 
  * Problem Statement:
  * Build a circuit with 3 inputs and 4 outputs that wires specific inputs to specific outputs.

@@ -1,6 +1,6 @@
 /*
  * Problem Name: Complex Gates
- * Date: 2026-07-20
+ * Date: 7/12/2026, 7:08:34 PM
  * 
  * Problem Statement:
  * Build a circuit with multiple inputs and outputs implementing a specific logic function.

@@ -1,6 +1,6 @@
 /*
  * Problem Name: Vector0
- * Date: 2026-07-20
+ * Date: 7/12/2026, 7:11:02 PM
  * 
  * Problem Statement:
  * Build a circuit that splits a 3-bit vector into 3 separate outputs and also outputs the vector itself.

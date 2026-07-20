@@ -1,6 +1,6 @@
 /*
  * Problem Name: Vector5
- * Date: 2026-07-20
+ * Date: 7/14/2026, 12:06:45 AM
  * 
  * Problem Statement:
  * Given five 1-bit signals (a, b, c, d, e), compute out = ~{ ... } ^ { ... }
