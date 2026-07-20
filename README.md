@@ -13,8 +13,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 11
-- **Latest solved problem:** Vector2
+- **Total problems solved:** 12
+- **Latest solved problem:** Vectorgates
 
 ## Solved Problems
 
@@ -31,3 +31,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Vector0 | Basics | [Basics/vector0.v](./Basics/vector0.v) |
 | Vector1 | Basics | [Basics/vector1.v](./Basics/vector1.v) |
 | Vector2 | Basics | [Basics/vector2.v](./Basics/vector2.v) |
+| Vectorgates | Basics | [Basics/vectorgates.v](./Basics/vectorgates.v) |
