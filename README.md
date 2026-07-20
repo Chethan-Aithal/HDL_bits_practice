@@ -33,7 +33,7 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Vector1 | Vectors | [Vectors/vector1.v](./Vectors/vector1.v) |
 | Vector2 | Vectors | [Vectors/vector2.v](./Vectors/vector2.v) |
 | Vectorgates | Vectors | [Vectors/vectorgates.v](./Vectors/vectorgates.v) |
-| Gates4 | Basics | [Basics/gates4.v](./Basics/gates4.v) |
+| Gates4 | Vectors | [Vectors/gates4.v](./Vectors/gates4.v) |
 | Vector3 | Vectors | [Vectors/vector3.v](./Vectors/vector3.v) |
 | Vectorr | Vectors | [Vectors/vectorr.v](./Vectors/vectorr.v) |
 | Vector4 | Vectors | [Vectors/vector4.v](./Vectors/vector4.v) |
