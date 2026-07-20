@@ -6,6 +6,7 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 - Basics
 - Vectors
+- Modules: Hierarchy
 - Combinational Logic
 - Sequential Logic
 - FSM
@@ -14,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 17
-- **Latest solved problem:** Vector5
+- **Total problems solved:** 18
+- **Latest solved problem:** Module
 
 ## Solved Problems
 
@@ -38,3 +39,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Vectorr | Vectors | [Vectors/vectorr.v](./Vectors/vectorr.v) |
 | Vector4 | Vectors | [Vectors/vector4.v](./Vectors/vector4.v) |
 | Vector5 | Vectors | [Vectors/vector5.v](./Vectors/vector5.v) |
+| Module | Modules: Hierarchy | [Modules/module.v](./Modules/module.v) |
