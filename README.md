@@ -13,8 +13,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 5
-- **Latest solved problem:** Notgate
+- **Total problems solved:** 6
+- **Latest solved problem:** Xnorgate
 
 ## Solved Problems
 
@@ -25,3 +25,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Wire | Basics | [Basics/wire.v](./Basics/wire.v) |
 | Wire4 | Basics | [Basics/wire4.v](./Basics/wire4.v) |
 | Notgate | Basics | [Basics/notgate.v](./Basics/notgate.v) |
+| Xnorgate | Basics | [Basics/xnorgate.v](./Basics/xnorgate.v) |
