@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 27
-- **Latest solved problem:** Mux256to1
+- **Total problems solved:** 28
+- **Latest solved problem:** Mux256to1v
 
 ## Solved Problems
 
@@ -49,3 +49,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Mux2to1v | Combinational Logic | [Combinational Logic/Multiplexers/mux2to1v.v](./Combinational%20Logic/Multiplexers/mux2to1v.v) |
 | Mux9to1v | Combinational Logic | [Combinational Logic/Multiplexers/mux9to1v.v](./Combinational%20Logic/Multiplexers/mux9to1v.v) |
 | Mux256to1 | Combinational Logic | [Combinational Logic/Multiplexers/mux256to1.v](./Combinational%20Logic/Multiplexers/mux256to1.v) |
+| Mux256to1v | Combinational Logic | [Combinational Logic/Multiplexers/mux256to1v.v](./Combinational%20Logic/Multiplexers/mux256to1v.v) |
