@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 24
-- **Latest solved problem:** Mux2to1
+- **Total problems solved:** 25
+- **Latest solved problem:** Mux2to1v
 
 ## Solved Problems
 
@@ -46,3 +46,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Module shift8 | Modules: Hierarchy | [Modules/module_shift8.v](./Modules/module_shift8.v) |
 | Module add | Modules: Hierarchy | [Modules/module_add.v](./Modules/module_add.v) |
 | Mux2to1 | Combinational Logic | [Combinational Logic/Multiplexers/mux2to1.v](./Combinational%20Logic/Multiplexers/mux2to1.v) |
+| Mux2to1v | Combinational Logic | [Combinational Logic/Multiplexers/mux2to1v.v](./Combinational%20Logic/Multiplexers/mux2to1v.v) |
