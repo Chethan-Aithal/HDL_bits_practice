@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 32
-- **Latest solved problem:** Adder3
+- **Total problems solved:** 33
+- **Latest solved problem:** Exams/m2014 q4j
 
 ## Solved Problems
 
@@ -54,3 +54,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Hadd | Combinational Logic | [Combinational Logic/Arithmetic circuits/hadd.v](./Combinational%20Logic/Arithmetic%20circuits/hadd.v) |
 | Fadd | Combinational Logic | [Combinational Logic/Arithmetic circuits/fadd.v](./Combinational%20Logic/Arithmetic%20circuits/fadd.v) |
 | Adder3 | Combinational Logic | [Combinational Logic/Arithmetic circuits/adder3.v](./Combinational%20Logic/Arithmetic%20circuits/adder3.v) |
+| Exams/m2014 q4j | Combinational Logic | [Combinational Logic/Arithmetic circuits/m2014_q4j.v](./Combinational%20Logic/Arithmetic%20circuits/m2014_q4j.v) |
