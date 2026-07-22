@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 29
-- **Latest solved problem:** 7420
+- **Total problems solved:** 31
+- **Latest solved problem:** Fadd
 
 ## Solved Problems
 
@@ -51,3 +51,5 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Mux9to1v | Combinational Logic | [Combinational Logic/Multiplexers/mux9to1v.v](./Combinational%20Logic/Multiplexers/mux9to1v.v) |
 | Mux256to1 | Combinational Logic | [Combinational Logic/Multiplexers/mux256to1.v](./Combinational%20Logic/Multiplexers/mux256to1.v) |
 | Mux256to1v | Combinational Logic | [Combinational Logic/Multiplexers/mux256to1v.v](./Combinational%20Logic/Multiplexers/mux256to1v.v) |
+| Hadd | Combinational Logic | [Combinational Logic/Arithmetic circuits/hadd.v](./Combinational%20Logic/Arithmetic%20circuits/hadd.v) |
+| Fadd | Combinational Logic | [Combinational Logic/Arithmetic circuits/fadd.v](./Combinational%20Logic/Arithmetic%20circuits/fadd.v) |
