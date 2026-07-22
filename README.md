@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 28
-- **Latest solved problem:** Mux256to1v
+- **Total problems solved:** 29
+- **Latest solved problem:** 7420
 
 ## Solved Problems
 
@@ -30,6 +30,7 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Xnorgate | Basics | [Basics/xnorgate.v](./Basics/xnorgate.v) |
 | Andgate | Basics | [Basics/andgate.v](./Basics/andgate.v) |
 | Complex Gates | Basics | [Basics/complex_gates.v](./Basics/complex_gates.v) |
+| 7420 | Basics | [Basics/7420.v](./Basics/7420.v) |
 | Vector0 | Vectors | [Vectors/vector0.v](./Vectors/vector0.v) |
 | Vector1 | Vectors | [Vectors/vector1.v](./Vectors/vector1.v) |
 | Vector2 | Vectors | [Vectors/vector2.v](./Vectors/vector2.v) |
