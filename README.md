@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 38
-- **Latest solved problem:** Kmap3
+- **Total problems solved:** 39
+- **Latest solved problem:** Kmap4
 
 ## Solved Problems
 
@@ -60,3 +60,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Kmap1 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap1.v](./Combinational%20Logic/Karnaugh%20Map/kmap1.v) |
 | Kmap2 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap2.v](./Combinational%20Logic/Karnaugh%20Map/kmap2.v) |
 | Kmap3 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap3.v](./Combinational%20Logic/Karnaugh%20Map/kmap3.v) |
+| Kmap4 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap4.v](./Combinational%20Logic/Karnaugh%20Map/kmap4.v) |
