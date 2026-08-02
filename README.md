@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 39
-- **Latest solved problem:** Kmap4
+- **Total problems solved:** 40
+- **Latest solved problem:** Exams/ece241 2013 q2
 
 ## Solved Problems
 
@@ -61,3 +61,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Kmap2 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap2.v](./Combinational%20Logic/Karnaugh%20Map/kmap2.v) |
 | Kmap3 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap3.v](./Combinational%20Logic/Karnaugh%20Map/kmap3.v) |
 | Kmap4 | Combinational Logic | [Combinational Logic/Karnaugh Map/kmap4.v](./Combinational%20Logic/Karnaugh%20Map/kmap4.v) |
+| Exams/ece241 2013 q2 | Combinational Logic | [Combinational Logic/Karnaugh Map/ece241_2013_q2.v](./Combinational%20Logic/Karnaugh%20Map/ece241_2013_q2.v) |
