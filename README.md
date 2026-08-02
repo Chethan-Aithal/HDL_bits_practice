@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 44
-- **Latest solved problem:** Dff8
+- **Total problems solved:** 45
+- **Latest solved problem:** Dff8r
 
 ## Solved Problems
 
@@ -66,3 +66,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Exams/2012 q1g | Combinational Logic | [Combinational Logic/Karnaugh Map/2012_q1g.v](./Combinational%20Logic/Karnaugh%20Map/2012_q1g.v) |
 | Dff | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff.v) |
 | Dff8 | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff8.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff8.v) |
+| Dff8r | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff8r.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff8r.v) |
