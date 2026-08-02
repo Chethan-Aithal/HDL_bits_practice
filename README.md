@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 42
-- **Latest solved problem:** Exams/2012 q1g
+- **Total problems solved:** 43
+- **Latest solved problem:** Dff
 
 ## Solved Problems
 
@@ -64,3 +64,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Exams/ece241 2013 q2 | Combinational Logic | [Combinational Logic/Karnaugh Map/ece241_2013_q2.v](./Combinational%20Logic/Karnaugh%20Map/ece241_2013_q2.v) |
 | Exams/m2014 q3 | Combinational Logic | [Combinational Logic/Karnaugh Map/m2014_q3.v](./Combinational%20Logic/Karnaugh%20Map/m2014_q3.v) |
 | Exams/2012 q1g | Combinational Logic | [Combinational Logic/Karnaugh Map/2012_q1g.v](./Combinational%20Logic/Karnaugh%20Map/2012_q1g.v) |
+| Dff | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff.v) |
