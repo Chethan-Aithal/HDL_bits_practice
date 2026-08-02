@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 45
-- **Latest solved problem:** Dff8r
+- **Total problems solved:** 46
+- **Latest solved problem:** Dff8p
 
 ## Solved Problems
 
@@ -67,3 +67,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Dff | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff.v) |
 | Dff8 | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff8.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff8.v) |
 | Dff8r | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff8r.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff8r.v) |
+| Dff8p | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff8p.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff8p.v) |
