@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 49
-- **Latest solved problem:** Exams/m2014 q4a
+- **Total problems solved:** 50
+- **Latest solved problem:** Exams/m2014 q4b
 
 ## Solved Problems
 
@@ -71,3 +71,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Dff8ar | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff8ar.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff8ar.v) |
 | Dff16e | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/dff16e.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/dff16e.v) |
 | Exams/m2014 q4a | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/m2014_q4a.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/m2014_q4a.v) |
+| Exams/m2014 q4b | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/m2014_q4b.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/m2014_q4b.v) |
