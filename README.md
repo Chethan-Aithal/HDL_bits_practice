@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 52
-- **Latest solved problem:** Mt2015 muxdff
+- **Total problems solved:** 53
+- **Latest solved problem:** Exams/2014 q4a
 
 ## Solved Problems
 
@@ -74,3 +74,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Exams/m2014 q4b | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/m2014_q4b.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/m2014_q4b.v) |
 | Exams/m2014 q4d | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/m2014_q4d.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/m2014_q4d.v) |
 | Mt2015 muxdff | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/mt2015_muxdff.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/mt2015_muxdff.v) |
+| Exams/2014 q4a | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/2014_q4a.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/2014_q4a.v) |
