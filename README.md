@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 57
-- **Latest solved problem:** Edgedetect2
+- **Total problems solved:** 58
+- **Latest solved problem:** Count15
 
 ## Solved Problems
 
@@ -79,3 +79,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Exams/ece241 2013 q7 | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/ece241_2013_q7.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/ece241_2013_q7.v) |
 | Edgedetect | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/edgedetect.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/edgedetect.v) |
 | Edgedetect2 | Sequential Logic | [Sequential Logic/Latches and Flip-Flops/edgedetect2.v](./Sequential%20Logic/Latches%20and%20Flip-Flops/edgedetect2.v) |
+| Count15 | Sequential Logic | [Sequential Logic/Counters/count15.v](./Sequential%20Logic/Counters/count15.v) |
