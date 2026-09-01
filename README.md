@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 66
-- **Latest solved problem:** Rotate100
+- **Total problems solved:** 67
+- **Latest solved problem:** Shift18
 
 ## Solved Problems
 
@@ -88,3 +88,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Count clock | Sequential Logic | [Sequential Logic/Counters/count_clock.v](./Sequential%20Logic/Counters/count_clock.v) |
 | Shift4 | Sequential Logic | [Sequential Logic/Shift Registers/shift4.v](./Sequential%20Logic/Shift%20Registers/shift4.v) |
 | Rotate100 | Sequential Logic | [Sequential Logic/Shift Registers/rotate100.v](./Sequential%20Logic/Shift%20Registers/rotate100.v) |
+| Shift18 | Sequential Logic | [Sequential Logic/Shift Registers/shift18.v](./Sequential%20Logic/Shift%20Registers/shift18.v) |
