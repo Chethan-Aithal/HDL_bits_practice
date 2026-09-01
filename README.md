@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 64
-- **Latest solved problem:** Count clock
+- **Total problems solved:** 65
+- **Latest solved problem:** Shift4
 
 ## Solved Problems
 
@@ -86,3 +86,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Exams/ece241 2014 q7b | Sequential Logic | [Sequential Logic/Counters/ece241_2014_q7b.v](./Sequential%20Logic/Counters/ece241_2014_q7b.v) |
 | Countbcd | Sequential Logic | [Sequential Logic/Counters/countbcd.v](./Sequential%20Logic/Counters/countbcd.v) |
 | Count clock | Sequential Logic | [Sequential Logic/Counters/count_clock.v](./Sequential%20Logic/Counters/count_clock.v) |
+| Shift4 | Sequential Logic | [Sequential Logic/Shift Registers/shift4.v](./Sequential%20Logic/Shift%20Registers/shift4.v) |
