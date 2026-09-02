@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 69
-- **Latest solved problem:** Mt2015 lfsr
+- **Total problems solved:** 70
+- **Latest solved problem:** Lfsr32
 
 ## Solved Problems
 
@@ -91,3 +91,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Shift18 | Sequential Logic | [Sequential Logic/Shift Registers/shift18.v](./Sequential%20Logic/Shift%20Registers/shift18.v) |
 | Lfsr5 | Sequential Logic | [Sequential Logic/Shift Registers/lfsr5.v](./Sequential%20Logic/Shift%20Registers/lfsr5.v) |
 | Mt2015 lfsr | Sequential Logic | [Sequential Logic/Shift Registers/mt2015_lfsr.v](./Sequential%20Logic/Shift%20Registers/mt2015_lfsr.v) |
+| Lfsr32 | Sequential Logic | [Sequential Logic/Shift Registers/lfsr32.v](./Sequential%20Logic/Shift%20Registers/lfsr32.v) |
