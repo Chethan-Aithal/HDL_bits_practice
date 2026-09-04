@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 72
-- **Latest solved problem:** Exams/2014 q4b
+- **Total problems solved:** 73
+- **Latest solved problem:** Exams/ece241 2013 q12
 
 ## Solved Problems
 
@@ -94,3 +94,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Lfsr32 | Sequential Logic | [Sequential Logic/Shift Registers/lfsr32.v](./Sequential%20Logic/Shift%20Registers/lfsr32.v) |
 | Exams/m2014 q4k | Sequential Logic | [Sequential Logic/Shift Registers/m2014_q4k.v](./Sequential%20Logic/Shift%20Registers/m2014_q4k.v) |
 | Exams/2014 q4b | Sequential Logic | [Sequential Logic/Shift Registers/2014_q4b.v](./Sequential%20Logic/Shift%20Registers/2014_q4b.v) |
+| Exams/ece241 2013 q12 | Sequential Logic | [Sequential Logic/Shift Registers/ece241_2013_q12.v](./Sequential%20Logic/Shift%20Registers/ece241_2013_q12.v) |
