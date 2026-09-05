@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 75
-- **Latest solved problem:** Fsm1s
+- **Total problems solved:** 76
+- **Latest solved problem:** Fsm2
 
 ## Solved Problems
 
@@ -97,3 +97,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Exams/ece241 2013 q12 | Sequential Logic | [Sequential Logic/Shift Registers/ece241_2013_q12.v](./Sequential%20Logic/Shift%20Registers/ece241_2013_q12.v) |
 | Fsm1 | Sequential Logic | [Sequential Logic/Finite State Machines/fsm1.v](./Sequential%20Logic/Finite%20State%20Machines/fsm1.v) |
 | Fsm1s | Sequential Logic | [Sequential Logic/Finite State Machines/fsm1s.v](./Sequential%20Logic/Finite%20State%20Machines/fsm1s.v) |
+| Fsm2 | Sequential Logic | [Sequential Logic/Finite State Machines/fsm2.v](./Sequential%20Logic/Finite%20State%20Machines/fsm2.v) |
