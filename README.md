@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 82
-- **Latest solved problem:** Exams/ece241 2013 q4
+- **Total problems solved:** 83
+- **Latest solved problem:** Lemmings1
 
 ## Solved Problems
 
@@ -104,3 +104,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Fsm3 | Sequential Logic | [Sequential Logic/Finite State Machines/fsm3.v](./Sequential%20Logic/Finite%20State%20Machines/fsm3.v) |
 | Fsm3s | Sequential Logic | [Sequential Logic/Finite State Machines/fsm3s.v](./Sequential%20Logic/Finite%20State%20Machines/fsm3s.v) |
 | Exams/ece241 2013 q4 | Sequential Logic | [Sequential Logic/Finite State Machines/ece241_2013_q4.v](./Sequential%20Logic/Finite%20State%20Machines/ece241_2013_q4.v) |
+| Lemmings1 | Sequential Logic | [Sequential Logic/Finite State Machines/lemmings1.v](./Sequential%20Logic/Finite%20State%20Machines/lemmings1.v) |
