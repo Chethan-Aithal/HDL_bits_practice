@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 81
-- **Latest solved problem:** Fsm3s
+- **Total problems solved:** 82
+- **Latest solved problem:** Exams/ece241 2013 q4
 
 ## Solved Problems
 
@@ -103,3 +103,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Fsm3onehot | Sequential Logic | [Sequential Logic/Finite State Machines/fsm3onehot.v](./Sequential%20Logic/Finite%20State%20Machines/fsm3onehot.v) |
 | Fsm3 | Sequential Logic | [Sequential Logic/Finite State Machines/fsm3.v](./Sequential%20Logic/Finite%20State%20Machines/fsm3.v) |
 | Fsm3s | Sequential Logic | [Sequential Logic/Finite State Machines/fsm3s.v](./Sequential%20Logic/Finite%20State%20Machines/fsm3s.v) |
+| Exams/ece241 2013 q4 | Sequential Logic | [Sequential Logic/Finite State Machines/ece241_2013_q4.v](./Sequential%20Logic/Finite%20State%20Machines/ece241_2013_q4.v) |
