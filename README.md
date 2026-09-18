@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 85
-- **Latest solved problem:** Lemmings3
+- **Total problems solved:** 86
+- **Latest solved problem:** Lemmings4
 
 ## Solved Problems
 
@@ -107,3 +107,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Lemmings1 | Sequential Logic | [Sequential Logic/Finite State Machines/lemmings1.v](./Sequential%20Logic/Finite%20State%20Machines/lemmings1.v) |
 | Lemmings2 | Sequential Logic | [Sequential Logic/Finite State Machines/lemmings2.v](./Sequential%20Logic/Finite%20State%20Machines/lemmings2.v) |
 | Lemmings3 | Sequential Logic | [Sequential Logic/Finite State Machines/lemmings3.v](./Sequential%20Logic/Finite%20State%20Machines/lemmings3.v) |
+| Lemmings4 | Sequential Logic | [Sequential Logic/Finite State Machines/lemmings4.v](./Sequential%20Logic/Finite%20State%20Machines/lemmings4.v) |
