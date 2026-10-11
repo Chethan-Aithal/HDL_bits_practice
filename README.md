@@ -15,8 +15,8 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 
 ## Progress
 
-- **Total problems solved:** 89
-- **Latest solved problem:** Fsm ps2data
+- **Total problems solved:** 90
+- **Latest solved problem:** Fsm serial
 
 ## Solved Problems
 
@@ -111,3 +111,4 @@ A collection of my solved Verilog problems from [HDLBits](https://hdlbits.01xz.n
 | Fsm onehot | Sequential Logic | [Sequential Logic/Finite State Machines/fsm_onehot.v](./Sequential%20Logic/Finite%20State%20Machines/fsm_onehot.v) |
 | Fsm ps2 | Sequential Logic | [Sequential Logic/Finite State Machines/fsm_ps2.v](./Sequential%20Logic/Finite%20State%20Machines/fsm_ps2.v) |
 | Fsm ps2data | Sequential Logic | [Sequential Logic/Finite State Machines/fsm_ps2data.v](./Sequential%20Logic/Finite%20State%20Machines/fsm_ps2data.v) |
+| Fsm serial | Sequential Logic | [Sequential Logic/Finite State Machines/fsm_serial.v](./Sequential%20Logic/Finite%20State%20Machines/fsm_serial.v) |
